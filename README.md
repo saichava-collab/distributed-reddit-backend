@@ -1,11 +1,11 @@
 
-# Distributed Reddit-Style Social Platform (Advanced)
+# Distributed Reddit-Style Social Platform
 
 ## Tech Stack
 Go, PostgreSQL, Redis, Docker, Docker Compose
 
 ## Features
-- Time-decay feed ranking (Reddit-style hot score)
+- Time-decay feed ranking
 - Threaded comment trees
 - Upvote / Downvote system
 - Redis-backed worker pools
